@@ -44,7 +44,7 @@ interviewassistant-gemini/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/real-ds/interviewassistant-gemini
 cd interviewassistant-gemini
 ```
 
